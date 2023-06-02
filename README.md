@@ -8,7 +8,13 @@ Tugas kalian disini adalah:
 
 Good luck!
 
-# Use Railway.App
+
+## Step by Step
+1. Install
+```properties
+npm run build
+``` 
+## Use Railway.App
 
 Link :
 1. [Challenge-07 unit testing](https://challenge-07-unit-test-production.up.railway.app/)
