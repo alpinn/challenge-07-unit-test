@@ -12,7 +12,15 @@ Good luck!
 ## Step by Step
 1. Install
 ```properties
-npm run build
+npm i
+``` 
+2. Run
+```properties
+npm start
+``` 
+3. Run in Develop
+```properties
+npm run develop
 ``` 
 ## Use Railway.App
 
