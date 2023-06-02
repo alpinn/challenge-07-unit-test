@@ -7,3 +7,10 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+# Use Railway.App
+
+Link :
+1. [Challenge-07 unit testing](https://challenge-07-unit-test-production.up.railway.app/)
+2. [Endpoint for List of Cars](https://challenge-07-unit-test-production.up.railway.app/v1/cars)
+
